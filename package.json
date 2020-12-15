@@ -1,0 +1,19 @@
+{
+  "name": "testingfundamentals",
+  "version": "1.0.0",
+  "description": "* Workspace while going through Kent C Dodds JavaScript course.",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jduell12/learningTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jduell12/learningTesting/issues"
+  },
+  "homepage": "https://github.com/jduell12/learningTesting#readme"
+}
